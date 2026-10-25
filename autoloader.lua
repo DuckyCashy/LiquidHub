@@ -8,8 +8,8 @@ local scriptUrl = GAME_SCRIPTS[game.PlaceId]
 
 if scriptUrl then
     game.StarterGui:SetCore("SendNotification", {
-      Title = "Notification",
-      Text = "My Title Here",
+      Title = "Liquid Loader",
+      Text = "Success! Fetching Script...",
       Duration = 5,
 })
     
@@ -18,8 +18,8 @@ if scriptUrl then
     end)
     
     if not success then
-        warn("❌ Failed to load script: " .. tostring(err))
+        warn(" Failed to load script: " .. tostring(err))
     end
 else
-    print("⚠️ Current Place ID not found in the script map. Script skipped.")
+    print(" Current Place ID not found in the script map. Script skipped.")
 end
