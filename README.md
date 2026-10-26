@@ -40,7 +40,11 @@ loadstring(game:HttpGet("https://raw.githubusercontent.com/DuckyCashy/LiquidHub/
 3. Find the Needle Script
     - Highlights the Needle
     - Nothing else.
+4. Liquified IY (Universal)
+   - Everything that IY has.
+   - +Extra Functions
   
 ### Credits
 - Resonance - For the Fling Things and People Structure
 - Scriptblox Users - For Helping me build my scripts.
+- EdgeIY - For Infinite Yield Structure.
