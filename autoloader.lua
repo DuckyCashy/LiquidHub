@@ -1,6 +1,7 @@
 local GAME_SCRIPTS = {
     [6961824067] = "https://raw.githubusercontent.com/Duckycashy/LiquidHub/main/FlingThingsandPeople.lua", 
-    [0] = "https://raw.githubusercontent.com/YourUsername/YourRepo/main/script2.lua", 
+    [286090429] = "https://raw.githubusercontent.com/DuckyCashy/LiquidHub/refs/heads/main/Arsenal.lua",
+    [0] = ""
 
 }
 
